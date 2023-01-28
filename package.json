@@ -26,11 +26,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexryd/homebridge-shelly.git"
-  },
-  "funding": {
-    "type": "kofi",
-    "url": "https://ko-fi.com/alexryd"
+    "url": "https://github.com/minuitagency/homebridge-shelly.git"
   },
   "dependencies": {
     "color-convert": "^2.0.0",
